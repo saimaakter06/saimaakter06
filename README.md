@@ -52,14 +52,6 @@ Hi there! 👋 I'm Saima Akter
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-- 💻 **Full-Stack Web Development Project** — MERN Stack
-- 🤖 **Machine Learning Project** — Python & Scikit-learn
-- 📊 **Data Analysis Project** — Python, Pandas & NumPy
-- 🏆 **AIUB Sports Management System** — C# & SQL Server
 
 ---
 
