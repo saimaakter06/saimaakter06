@@ -18,7 +18,7 @@ Hi there! 👋 I'm Saima Akter
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saima-akter-10224941a)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK)
 
