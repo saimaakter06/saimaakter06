@@ -6,11 +6,11 @@ Hi there! 👋 I'm Saima Akter
 
 🤝 I'm looking to collaborate on Full-Stack, AI/ML, Data Science, and Open-Source projects.
 
-🌱 I'm currently learning HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB , and Machine Learning.
+🌱 I'm currently learning HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB , Data Science and Machine Learning.
 
-💬 Ask me about Web Development,and Machine Learning.
+💬 Ask me about Web Development,AL/Ml and Data Science. 
 
-🎯 My goal is to become a skilled Full-Stack Developer with knowledge of AI & Data Science.
+🎯 My goal is to become a skilled Full-Stack Developer with knowledge of AI,  Data Science and Machine Learning. 
 
 📚 I'm a CSE Student at American International University-Bangladesh (AIUB).
 
