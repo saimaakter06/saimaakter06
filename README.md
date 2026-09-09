@@ -12,7 +12,7 @@ Hi there! 👋 I'm Saima Akter
 
 🎯 My goal is to become a skilled Full-Stack Developer with knowledge of AI,  Data Science and Machine Learning. 
 
-📚 I'm a CSE Student at American International University-Bangladesh (AIUB).
+📚 I'm a CSE Student at American International University-Bangladesh(AIUB)
 
 ---
 
