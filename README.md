@@ -22,11 +22,8 @@ Hi there! 👋 I'm Saima Akter
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/saimaakter06)
 
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/s.aima060)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/s.aima.___?igsi=NWhjczV3eDV0MGNn)
-
-[![Email](https://img.shields.io/badge/Email-Profile-black?style=for-the-badge&logo=email)](saimaakterrichi06@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Profile-black?style=for-the-badge&logo=email)](saimaakterofficial72@gmail.com)
 
 
 
